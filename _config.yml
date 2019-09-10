@@ -15,6 +15,6 @@ github_username:  januarioccp
 
 # Google-analytics
 google-analytics:
-  id: "62734213"
+  id: "UA-62734213-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
