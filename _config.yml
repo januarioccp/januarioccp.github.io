@@ -6,15 +6,15 @@ description: Assistant Professor
 
 # User settings
 username: Tiago Januario
-user_description: Assistant Professor at the Department of Computer Science of Institute of Mathematics and Statistics of Universidade Federal da Bahia, at Salvador, state of Bahia, Brazil.
+user_description: Assistant Professor, Department of Computer Science of Institute of Mathematics and Statistics of Universidade Federal da Bahia, at Salvador, state of Bahia, Brazil.
 user_title: Assistant Professor
 email: januario@ufba.br
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  januarioccp
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "62734213"
 
 exclude: ['package.json', 'src' , 'node_modules']
